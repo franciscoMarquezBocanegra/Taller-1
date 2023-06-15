@@ -12,15 +12,13 @@ Class diagram: NA
 Description of class diagram: NA
   
 
-SUBMITTING YOUR ASSIGNMENT
-Submit the link to the project on Github.
-
-The repository should contain:
 
 The source code: anexo
+
 The Readme  describing the project. Include the LOC/h.
 Test report
 Your design
+
 *The Javadoc punto 1.*
 
 >>> javadoc:3.5.0:javadoc (default-cli) > generate-sources @ punto1 >>>
